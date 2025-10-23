@@ -6,6 +6,9 @@ This repository contains two implementations of a real-time chat application, bu
 
 A simple browser-based chat application where users can type messages that are instantly reflected across all active sessions. This demonstrates real-time communication using WebSocket technology with different framework combinations.
 
+<img width="654" height="718" alt="Screenshot 2025-10-23 at 4 16 00 PM" src="https://github.com/user-attachments/assets/9770deb6-c818-4618-aabf-04039b19d971" />
+
+
 ## Two Versions
 
 ### Version 1: React + Node.js + Socket.io
