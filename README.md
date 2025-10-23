@@ -64,12 +64,6 @@ Access at: `http://localhost:5000`
 3. Type a message in one window and press Send
 4. The message should appear instantly in all open windows
 
-## Deliverables
-
-- ✅ Two functioning chat applications with different frameworks
-- ✅ Complete setup and running instructions
-- ✅ One-page writeup comparing frameworks and MVC structure (see [WRITEUP.md](WRITEUP.md))
-
 ## Repository Structure
 
 ```
@@ -110,12 +104,3 @@ chat-app/
 ### Version 2:
 - Python 3.7+
 - pip
-
-## Assignment Requirements Met
-
-✅ Built twice with different browser and server frameworks  
-✅ Messages typed in one session appear in all active sessions  
-✅ Messages from other sessions appear in the first  
-✅ Functioning code with precise instructions  
-✅ One-page writeup on framework differences and MVC structure
-
