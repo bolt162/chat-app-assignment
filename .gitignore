@@ -1,0 +1,28 @@
+# Version 1 - Node.js / React
+version1-react-node/backend/node_modules/
+version1-react-node/frontend/node_modules/
+version1-react-node/frontend/build/
+version1-react-node/backend/package-lock.json
+version1-react-node/frontend/package-lock.json
+
+# Version 2 - Python / Flask
+version2-vanilla-flask/backend/venv/
+version2-vanilla-flask/backend/__pycache__/
+version2-vanilla-flask/backend/*.pyc
+version2-vanilla-flask/backend/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
