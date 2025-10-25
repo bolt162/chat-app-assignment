@@ -86,5 +86,5 @@
 
 ## Conclusion
 
-The assignment effectively demonstrates that frameworks are tools with trade-offs, not universal improvements. React excels at complex, stateful UIs with many components, while Vanilla JavaScript offers transparency and minimal overhead for simple applications. The "best" choice depends on project requirements, team expertise, and growth expectations. Understanding both approaches - with and without frameworks - makes you a more thoughtful engineer who can choose appropriately rather than defaulting to familiar tools.
+The assignment effectively demonstrates that frameworks are tools with trade-offs, not universal improvements. React excels at complex, stateful UIs with many components, while Vanilla JavaScript offers transparency and minimal overhead for simple applications.
 
